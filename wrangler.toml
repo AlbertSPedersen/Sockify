@@ -1,0 +1,3 @@
+compatibility_date = "2023-05-21"
+main = "./src/index.ts"
+name = "sockify"
